@@ -24,6 +24,7 @@
 		F71A3DDC2A1BC310003244CA /* nssl0033.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F71A3DD22A1BC310003244CA /* nssl0033.jpg */; };
 		F71A3DDD2A1BC310003244CA /* nssl0034.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F71A3DD32A1BC310003244CA /* nssl0034.jpg */; };
 		F74680F22A1D04E60055333C /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F74680F12A1D04E60055333C /* DetailViewController.swift */; };
+		F7A1552E2A485E8500AC88E7 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = F7A1552D2A485E8500AC88E7 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,6 +47,7 @@
 		F71A3DD22A1BC310003244CA /* nssl0033.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0033.jpg; sourceTree = "<group>"; };
 		F71A3DD32A1BC310003244CA /* nssl0034.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0034.jpg; sourceTree = "<group>"; };
 		F74680F12A1D04E60055333C /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		F7A1552D2A485E8500AC88E7 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 		F71A3DA92A1BB3C0003244CA = {
 			isa = PBXGroup;
 			children = (
+				F7A1552D2A485E8500AC88E7 /* .gitignore */,
 				F71A3DB42A1BB3C0003244CA /* Project1 */,
 				F71A3DB32A1BB3C0003244CA /* Products */,
 			);
@@ -174,6 +177,7 @@
 				F71A3DDD2A1BC310003244CA /* nssl0034.jpg in Resources */,
 				F71A3DD42A1BC310003244CA /* nssl0049.jpg in Resources */,
 				F71A3DD92A1BC310003244CA /* nssl0041.jpg in Resources */,
+				F7A1552E2A485E8500AC88E7 /* .gitignore in Resources */,
 				F71A3DDA2A1BC310003244CA /* nssl0042.jpg in Resources */,
 				F71A3DC22A1BB3C1003244CA /* LaunchScreen.storyboard in Resources */,
 				F71A3DBF2A1BB3C1003244CA /* Assets.xcassets in Resources */,
